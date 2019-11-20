@@ -27,7 +27,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/cliff1-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/cliff1-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -43,7 +43,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/cliff2-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/cliff2-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -71,7 +71,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/cliff1-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/cliff1-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -87,7 +87,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/cliff2-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/cliff2-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -296,7 +296,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/slope-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/slope-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -323,7 +323,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/slope-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/slope-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -490,7 +490,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/slope-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/slope-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>
@@ -517,7 +517,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/slope-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/slope-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>

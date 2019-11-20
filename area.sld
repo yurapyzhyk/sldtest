@@ -313,7 +313,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillConiferousTrees-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillConiferousTrees-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -348,7 +348,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillConiferousTreesAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillConiferousTreesAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -383,7 +383,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillNonconiferousTreesAndConiferousTrees-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillNonconiferousTreesAndConiferousTrees-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -418,7 +418,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScrubAndConiferousTreesAndNonconiferousTrees-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScrubAndConiferousTreesAndNonconiferousTrees-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -453,7 +453,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillNonconiferousTrees-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillNonconiferousTrees-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -488,7 +488,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillNonconiferousTreesAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillNonconiferousTreesAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -523,7 +523,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScree-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScree-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>250</Size>
@@ -558,7 +558,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScree-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScree-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>250</Size>
@@ -593,7 +593,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScree-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScree-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>250</Size>
@@ -623,7 +623,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrassland-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrassland-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -653,7 +653,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrasslandAndBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrasslandAndBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -688,7 +688,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrasslandAndScree-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrasslandAndScree-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>250</Size>
@@ -723,7 +723,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrassland-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrassland-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -753,7 +753,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -783,7 +783,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillHeathAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillHeathAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -813,7 +813,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrasslandAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrasslandAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -843,7 +843,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBouldersAndRoughGrasslandAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBouldersAndRoughGrasslandAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -873,7 +873,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScrubAndMarsh-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScrubAndMarsh-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -903,7 +903,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillMarshAndHeathAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillMarshAndHeathAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -933,7 +933,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillMarshAndRoughGrasslandAndScrub-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillMarshAndRoughGrasslandAndScrub-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -963,7 +963,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillHeathAndScrubAndRoughGrassland-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillHeathAndScrubAndRoughGrassland-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -993,7 +993,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScrubAndBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScrubAndBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1023,7 +1023,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScrubAndBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScrubAndBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1053,7 +1053,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillOrchard-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillOrchard-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1083,7 +1083,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrasslandAndMarsh-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrasslandAndMarsh-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1113,7 +1113,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRock-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRock-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1143,7 +1143,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillHeath-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillHeath-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1173,7 +1173,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrasslandAndHeath-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrasslandAndHeath-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1203,7 +1203,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBouldersAndHeathAndRoughGrassland-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBouldersAndHeathAndRoughGrassland-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1233,7 +1233,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBouldersAndHeath-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBouldersAndHeath-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1263,7 +1263,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillHeathAndMarsh-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillHeathAndMarsh-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1293,7 +1293,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1328,7 +1328,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1363,7 +1363,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1398,7 +1398,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillBoulders-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillBoulders-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1497,7 +1497,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillScree-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillScree-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>250</Size>
@@ -1527,7 +1527,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillRoughGrasslandAndMarsh-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillRoughGrasslandAndMarsh-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>
@@ -1557,7 +1557,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <GraphicFill>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/fillMarsh-bd.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/fillMarsh-bd.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                   <Size>320</Size>

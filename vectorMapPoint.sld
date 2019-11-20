@@ -25,7 +25,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/triangulationStationSymbol-bd.svg"/>
+                <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/triangulationStationSymbol-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>20</Size>
@@ -45,7 +45,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/triangulationStationSymbol-bd.svg"/>
+                <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/triangulationStationSymbol-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>28</Size>
@@ -68,7 +68,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="ordnance_survey/heritageSiteOfSymbol-bd.svg"/>
+                <OnlineResource xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/heritageSiteOfSymbol-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>15</Size>
@@ -88,7 +88,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="ordnance_survey/heritageSiteOfSymbol-bd.svg"/>
+                <OnlineResource xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/heritageSiteOfSymbol-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>21</Size>
@@ -111,7 +111,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="ordnance_survey/flowArrowSymbol-bd.svg"/>
+                <OnlineResource xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/flowArrowSymbol-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>6</Size>
@@ -135,7 +135,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:href="ordnance_survey/flowArrowSymbol-bd.svg"/>
+                <OnlineResource xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/flowArrowSymbol-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>8</Size>
@@ -162,7 +162,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/pylon2-bd.svg"/>
+                <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/pylon2-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>16</Size>
@@ -186,7 +186,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="ordnance_survey/pylon2-bd.svg"/>
+                <OnlineResource xlink:type="simple" xlink:href="https://raw.githubusercontent.com/yurapyzhyk/sldtest/master/ordnance_survey/pylon2-bd.svg"/>
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>10</Size>
