@@ -180,7 +180,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
 -->
 
 	  <!-- Standard contour line (Currently commented out to turn off) -->
-<!--      
+
         <Rule>
           <Name>Standard contour line</Name>
           <ogc:Filter>
@@ -198,7 +198,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Stroke>
           </LineSymbolizer>
         </Rule>
--->
+
 
       <!-- Urban general pecked detail -->
         
